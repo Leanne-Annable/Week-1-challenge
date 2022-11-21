@@ -21,6 +21,8 @@ Website images included below
 ![second-half-of-webpage](assets/images/READMEpic2.jpg)
 ```
 
+Link to active website: https://leanne-annable.github.io/Week-1-challenge/
+
 ## Licence
 
 Licensed under the MIT Licence
