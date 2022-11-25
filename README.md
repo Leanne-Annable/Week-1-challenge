@@ -16,10 +16,10 @@ This website has links at the top of the page to each of the 3 main sections.
 
 Website images included below
 
-```md
+
 ![first-half-of-webpage](assets/images/READMEpic1.jpg)
 ![second-half-of-webpage](assets/images/READMEpic2.jpg)
-```
+
 
 Link to active website: https://leanne-annable.github.io/Week-1-challenge/
 
